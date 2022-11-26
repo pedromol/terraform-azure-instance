@@ -1,0 +1,8 @@
+.terraform/
+.terraform.lock.hcl
+*.tfstate*
+terraform.tfvars
+*.pem
+crash.log
+keys/*
+!keys/.gitkeep
